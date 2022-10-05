@@ -19,6 +19,6 @@ Pod::Spec.new { |spec|
 spec.preserve_paths = ['dist/**/*']
 # pod lib lint
   spec.source = {
-    :http => 'https://github.com/bitbeen/pod_test/releases/download/0.1/cargo-pod.tgz',
+    :http => 'https://github.com/bitbeen/greetings/releases/download/1.0/cargo-pod.tgz',
   }
 }
